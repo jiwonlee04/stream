@@ -1,6 +1,5 @@
 
 import stramlit as st
-imprte mymodel as m
 
 st.write("""
 # Sales model
